@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="author_name">BY :</string>
+    <string name="publisher">PUBLISHED BY :</string>
+</resources>
